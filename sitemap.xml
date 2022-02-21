@@ -2,9 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://m-fujimto.github.io/categories/</loc>
+    <loc>https://m-fujimto.github.io/freebsd/</loc>
+    <lastmod>2022-02-21T21:53:01+09:00</lastmod>
   </url><url>
     <loc>https://m-fujimto.github.io/</loc>
+    <lastmod>2022-02-21T21:53:01+09:00</lastmod>
+  </url><url>
+    <loc>https://m-fujimto.github.io/freebsd/ssh_exchange_identification/</loc>
+    <lastmod>2022-02-21T21:53:01+09:00</lastmod>
+  </url><url>
+    <loc>https://m-fujimto.github.io/categories/</loc>
+  </url><url>
+    <loc>https://m-fujimto.github.io/tags/gitea-git-/etc/hosts.allow/</loc>
   </url><url>
     <loc>https://m-fujimto.github.io/tags/</loc>
   </url>
