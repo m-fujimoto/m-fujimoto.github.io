@@ -5,7 +5,7 @@
     <link rel="icon" href="/images/favicon.ico">
     
     
-    <title>m-fujimoto.github.io/ | FreeBSDs</title>
+    <title>m-fujimoto.github.io/ | ssh_exchange_identification</title>
 </head>
 <body  class="d-flex text-white bg-dark"><div class="center"> 
 <br/><br/>
@@ -70,23 +70,33 @@
 
 
 <div id="content">
-<main>
-    <article>
-        <header>
-<h1>freebsd</h1>
-        </header>
+<section id="main">
+  <h1 id="title">ssh_exchange_identification</h1>
+	<p style="text-align: right">Posted :  21 Feb 2022</p>
+  <div>
+        <article id="content">
+           <p>My gitea IP address : https://localhost:3000</p>
+<pre tabindex="0"><code>% git push 
+ssh_exchange_identification: Connection closed by remote host
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+</code></pre><p>Add the following line in /etc/hosts.allow</p>
+<pre tabindex="0"><code>sshd : localhost : allow
+</code></pre><p>Then restart sshd :</p>
+<pre tabindex="0"><code>% doas /etc/rc.d/sshd restart
+</code></pre>
+        </article>
+  </div>
+</section>
+
+<hr>
+    <div>
         
         
-    </article>
-    <ul>
-    
-    
-        <li>
-<a href="https://m-fujimto.github.io/2022/02/ssh_exchange_identification/">21 Feb 2022 | ssh_exchange_identification</a> 
-        </li>
-    
-    </ul>
-</main>
+    </div>
+</aside>
 
         </div><footer>
 <br><br><br><br><br><br><br><br><br><br>
