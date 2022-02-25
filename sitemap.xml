@@ -2,23 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://m-fujimto.github.io/categories/</loc>
+    <loc>https://m-fujimoto.github.io/categories/</loc>
     <lastmod>2022-02-21T21:53:01+09:00</lastmod>
   </url><url>
-    <loc>https://m-fujimto.github.io/categories/freebsd/</loc>
+    <loc>https://m-fujimoto.github.io/categories/freebsd/</loc>
     <lastmod>2022-02-21T21:53:01+09:00</lastmod>
   </url><url>
-    <loc>https://m-fujimto.github.io/</loc>
+    <loc>https://m-fujimoto.github.io/</loc>
     <lastmod>2022-02-21T21:53:01+09:00</lastmod>
   </url><url>
-    <loc>https://m-fujimto.github.io/posts/</loc>
+    <loc>https://m-fujimoto.github.io/posts/</loc>
     <lastmod>2022-02-21T21:53:01+09:00</lastmod>
   </url><url>
-    <loc>https://m-fujimto.github.io/2022/02/ssh_exchange_identification/</loc>
+    <loc>https://m-fujimoto.github.io/2022/02/ssh_exchange_identification/</loc>
     <lastmod>2022-02-21T21:53:01+09:00</lastmod>
   </url><url>
-    <loc>https://m-fujimto.github.io/tags/gitea-git-/etc/hosts.allow/</loc>
+    <loc>https://m-fujimoto.github.io/tags/gitea-git-/etc/hosts.allow/</loc>
   </url><url>
-    <loc>https://m-fujimto.github.io/tags/</loc>
+    <loc>https://m-fujimoto.github.io/tags/</loc>
   </url>
 </urlset>
