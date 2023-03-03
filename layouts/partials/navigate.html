@@ -1,0 +1,17 @@
+<div class="center"> 
+<br/><br/>
+    <nav class="navi-link">
+        {{ range .Site.Menus.main }}
+        <a class="navi-link" href="{{ .URL }}">
+        {{ if .Pre }}
+        {{ $icon := printf "<i data-feather=\"%s\"></i> " .Pre | safeHTML }}
+        {{ $icon }}
+        {{ end }}
+        {{ $text := print .Name | safeHTML }}
+        {{ $text }}
+        </a>
+        {{ end }}
+    </nav>
+</div>
+
+

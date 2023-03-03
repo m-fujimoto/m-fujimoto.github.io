@@ -1,0 +1,26 @@
+baseURL = "https://m-fujimoto.github.io/"
+languageCode = "en-GB"
+
+[menu]
+  [[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+
+  [[menu.main]]
+    name = "Posts"
+    url = "/posts/"
+    weight = 2
+
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+
+[params]
+  mydateformat = "2 Jan 2006"
+  authorName = "masayoshi"
+
+[permalinks]
+  posts = '/:year/:month/:title/'
+  vocabulary = '/:year/:month/:title/'
+

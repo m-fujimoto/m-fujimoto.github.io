@@ -1,0 +1,32 @@
+{{ define "main" }}
+<section id="main">
+  <h1 id="title">{{ .Title }}</h1>
+	<p style="text-align: right">Posted :  {{ .Date.Format site.Params.mydateformat }}</p>
+  <div>
+        <article id="content">
+           {{ .Content }}
+        </article>
+  </div>
+</section>
+
+<aside id="meta">
+    <div>
+    <section>
+      <h5 id="wordcount"> {{ .WordCount }} Words </h5>
+    </section>
+<hr>
+    <div>
+        {{ with .PrevInSection }}
+	<p>Previous : 
+          <a class="previous" href="{{.Permalink}}"> {{.Title}}</a>
+	</p>
+        {{ end }}
+        {{ with .NextInSection }}
+	<p>Next :
+          <a class="next" href="{{.Permalink}}"> {{.Title}}</a>
+	</p>
+        {{ end }}
+    </div>
+</aside>
+{{ end }}
+
