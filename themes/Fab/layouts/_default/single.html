@@ -14,6 +14,28 @@
     <section>
       <h5 id="wordcount"> {{ .WordCount }} Words </h5>
     </section>
+<!--
+<p>Category</p>
+    {{ with .Params.categories }}
+    <ul id="categories">
+      {{ range . }}
+        <li><a href="{{ "categories/" | absURL}}{{ . | urlize }}">{{ . }}</a></li>
+      {{ end }}
+    </ul>
+    {{ end }}
+<p style="text-align: right"><small>Last modified : {{.Lastmod.Format site.Params.mydateformat}}</small></p>
+<hr>
+<p>Tag</p>
+    {{ with .Params.tags }}
+    <ul id="tags">
+      {{ range . }}
+        <li><a href="{{ "tags/" | absURL }}{{ . | urlize }}">{{ . }}</a></li>
+      {{ end }}
+    </ul>
+    {{ end }}
+    </div>
+
+-->
 <hr>
     <div>
         {{ with .PrevInSection }}

@@ -1,5 +1,7 @@
 baseURL = "https://m-fujimoto.github.io/"
 languageCode = "en-GB"
+title = "Fab"
+theme = "Fab"
 
 [menu]
   [[menu.main]]
@@ -12,6 +14,23 @@ languageCode = "en-GB"
     url = "/posts/"
     weight = 2
 
+  [[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 3
+
+  [[menu.main]]
+    name = "Categories"
+    pre = "category"
+    url = "/categories/"
+    weight = 4
+
+  [[menu.main]]
+    name = "Tags"
+    pre = "tag"
+    url = "/tags/"
+    weight = 5
+
 [taxonomies]
   tag = "tags"
   category = "categories"
@@ -22,5 +41,3 @@ languageCode = "en-GB"
 
 [permalinks]
   posts = '/:year/:month/:title/'
-  vocabulary = '/:year/:month/:title/'
-
