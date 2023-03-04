@@ -27,8 +27,11 @@ Name|OS|IP Address|
 
 ## Interests
 
-* Improve English
+### Listening English
 
-I would like to record NHK Radio RADIRU*RADIRU .
-So I have wrote a simple programme [Radio](https://m-fujimoto.github.io/Radio) in Perl.
+I would like to record NHK Radio RADIRU*RADIRU to improve my English.
+I have wrote a simple programme in Perl.
+
+* [GitHub Pages](https://m-fujimoto.github.io/Radio) 
+* [GitHub](https://github.com/m-fujimoto/Radio)
 
