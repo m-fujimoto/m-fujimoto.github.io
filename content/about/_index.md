@@ -30,6 +30,5 @@ Name|OS|IP Address|
 * Improve English
 
 I would like to record NHK Radio RADIRU*RADIRU .
-So I have wrote a simple programme in Perl.
+So I have wrote a simple programme [Radio](https://m-fujimoto.github.io/Radio) in Perl.
 
-[Radio](https://m-fujimoto/Radio)
