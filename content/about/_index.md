@@ -30,8 +30,6 @@ Name|OS|IP Address|
 ### Listening English
 
 I would like to record NHK Radio RADIRU*RADIRU to improve my English.
-I have wrote a simple programme in Perl.
-
-* [GitHub Pages](https://m-fujimoto.github.io/Radio) 
-* [GitHub](https://github.com/m-fujimoto/Radio)
+I have wrote a simple programme [Radio.pl](https://github.com/m-fujimoto/Radio) in Perl.
+ 
 
