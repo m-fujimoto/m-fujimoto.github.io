@@ -1,3 +1,5 @@
+/*
+
 BODY {background-color: #000000;
 	color: #ffffff;}
 
@@ -25,9 +27,6 @@ a:active {color: #87CEEB;
 a:visited { color: #696969;
 		text-decoration: none}
 
-table { border : 1px outset black }
-th, td { border : 1px inset black }
-
 /* After typing command,I use this to display result */
 /* When I need to display some contents in a file, I use this. */
 .PROGRAMLISTING {
@@ -54,7 +53,6 @@ th, td { border : 1px inset black }
 	width: 90%;
 }
 
-
 /* When I need to give some tips, I use this. */
 BLOCKQUOTE.TIP {
 	color: #004F00;
@@ -73,8 +71,10 @@ BLOCKQUOTE.WARNING {
 	width: 85%;
 }
 
+*/
+
+table { border : 1px outset black }
+th, td { border : 1px inset black }
 td.nowrap {
 white-space: nowrap;
 }
-
-

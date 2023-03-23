@@ -9,7 +9,7 @@
 
 |Name|OS|IP Address|
 |---|---|---|
-|ThinkPad X270|FreeBSD13.1|192.168.0.2|
+|ThinkPad X270|FreeBSD 13.1|192.168.0.2|
 |Original|OpenBSD 7.2|192.168.0.3|
 |ESC Liva Z2|Windows 11 Home|192.168.0.4|
 |Old laptop|FreeBSD 13.1 i386|192.168.0.5|
@@ -32,4 +32,3 @@ Name|OS|IP Address|
 I would like to record NHK Radio RADIRU*RADIRU to improve my English.
 I have written a simple programme [Radio.pl](https://github.com/m-fujimoto/Radio) in Perl.
  
-
