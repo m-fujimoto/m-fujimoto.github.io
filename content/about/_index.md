@@ -16,6 +16,15 @@ flowchart TD;
     E --> |Vm-bhyve| G[192.168.11.2];
     B --> |Mobile Phone|H[DHCP];
 ```
+Here is a simple flow chart:
+
+```mermaid
+graph TD;
+    A-->B;
+    A-->C;
+    B-->D;
+    C-->D;
+```
 
 ## Interests
 
