@@ -8,13 +8,13 @@
 ## Computers
 
 ```mermaid
-flowchart TD
-    Internet --> |RX-600mi|B
-    B[192.168.1.1] --> |Windows 11 Home| C[192.168.1.4]
-    B --> |FreeBSD| E[192.168.1.2]
-    B --> |OpenBSD| F[192.168.1.3]
-    E --> |Vm-bhyve| G[192.168.11.2]
-    B --> |Mobile Phone|H[DHCP]
+flowchart TD;
+    Internet --> |RX-600mi|B;
+    B[192.168.1.1] --> |Windows 11 Home| C[192.168.1.4];
+    B --> |FreeBSD| E[192.168.1.2];
+    B --> |OpenBSD| F[192.168.1.3];
+    E --> |Vm-bhyve| G[192.168.11.2];
+    B --> |Mobile Phone|H[DHCP];
 ```
 
 ## Interests
