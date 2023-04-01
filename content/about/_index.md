@@ -1,9 +1,3 @@
-## Profile
-
-|Name|Sex|Height|Weight|Blood type|
-|---|---|---|---|---|
-|masayoshi|Male|174.0cm|53.0kg|B+|
-
 ## Interests
 
 ### Listening English
