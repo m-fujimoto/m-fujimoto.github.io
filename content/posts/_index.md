@@ -1,1 +1,1 @@
-I will sometimes post about my daily life here.
+I will post about my daily life here.
