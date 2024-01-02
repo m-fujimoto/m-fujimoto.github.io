@@ -9,6 +9,7 @@ I have written a simple programme [Radio.pl](https://github.com/m-fujimoto/Radio
 
 * Dua Lipa.
 * Miley Cirus
+* Ava Max
 
 ### Programming
 
