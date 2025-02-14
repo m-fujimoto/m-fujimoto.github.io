@@ -6,7 +6,7 @@ categories = ['BBC']
 tags = ['Learning English from the news']
 +++
 
-# Gaza ceasefire at ridk
+# Gaza ceasefire at risk
 
 * Word/phrase: on the verge of\
         It means: about to happen
