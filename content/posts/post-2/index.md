@@ -1,7 +1,7 @@
 +++
 title = 'Post 2'
 date = 2025-02-15T22:17:25+09:00
-draft = true
+draft = false
 categories = ['Trip']
 tags = ['']
 +++
