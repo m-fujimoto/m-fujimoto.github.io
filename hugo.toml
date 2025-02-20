@@ -2,3 +2,12 @@ baseURL = 'https://m-fujimoto.github.io/'
 languageCode = 'en-us'
 title = 'My GitHub Pages'
 theme = 'Fab'
+
+
+#
+# <!-- raw HTML ommitted -->
+#
+[markup]
+[markup.goldmark]
+[markup.goldmark.renderer]
+unsafe = true
