@@ -9,7 +9,7 @@ tags = ['NW-WS413']
 # Sony NW-WS413
 
 Suddenly my walkman says data error. 
-It works.
+But it doesn't work. I don't like Sony.  
 
 * [ウォークマンが正常に動作しなくなってしまいました。(ウォークマン Wシリーズ)](https://knowledge.support.sony.jp/electronics/support/articles/S1110278032763)
 * [ウォークマンを再生できない／「No Data(ノーデータ)」「Data Error(データエラー)」というメッセージが聞こえる (WS410シリーズ)](https://knowledge.support.sony.jp/electronics/support/articles/S1604210079201)
