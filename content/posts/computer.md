@@ -9,7 +9,7 @@ categories = 'OpenBSD'
 I have installed OpenBSD 7.8 on the following machine: 
 
 * CPU --- Core i5-14400
-* Motherboard --- B760M DS3H WF6E GEN5
+* Motherboard --- B760M DS3H WIFI6E GEN5
 * Storage -- LEGEND 860 SLEG-860-500GCS-DP (M.2 2280 500GB)
 * Memory --- ADATA AD5U48008G-DT
 * Power --- KRPW-BK650W/85+
