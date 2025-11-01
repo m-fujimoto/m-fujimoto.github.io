@@ -2,8 +2,8 @@
 date = '2025-10-25T01:51:48+09:00'
 draft = false
 title = 'Computer'
-tags = 'My computer'
-categories = 'OpenBSD'
+tags = ['My computer']
+categories = ['OpenBSD']
 +++
 
 I have installed OpenBSD 7.8 on the following machine: 

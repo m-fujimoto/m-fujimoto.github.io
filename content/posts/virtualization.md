@@ -1,6 +1,6 @@
 +++
 date = '2025-10-30T17:11:55+09:00'
-draft = false
+draft = true
 title = 'Virtualization'
 categories = ['OpenBSD']
 tags = ['vm','pf.conf']
