@@ -1,6 +1,6 @@
 +++
 date = '2025-10-30T17:11:55+09:00'
-draft = true
+draft = false
 title = 'Virtualization'
 categories = ['OpenBSD']
 tags = ['vm','pf.conf']
@@ -90,7 +90,7 @@ pass            # establish keep-state
 
 #block in quick from urpf-failed to any # use with care
 
-dns_server = "8.8.8.8"
+dns_server = "192.168.1.1"
 
 # rules for vmd(8) - NAT and DNS forwarding for VMs (100.64.0.0/10 default)
 pass out on egress from 100.64.0.0/10 to any nat-to (egress)
@@ -114,4 +114,5 @@ vm "OpenBSD" {
 
 ```
 $ doas vmctl start OpenBSD
+$ doas vmctl console OpenBSD
 ```
